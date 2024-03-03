@@ -6,6 +6,7 @@ Currently only 1.0 or higher is Supported
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.11    | :white_check_mark: |
 | 1.6.3   | :white_check_mark: |
 | 1.x.x   | :white_check_mark: |
 | 0.8.x   | :x:                |
